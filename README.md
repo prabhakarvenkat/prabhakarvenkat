@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prabhakar15v@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/prabhakar-v-736253244](www.linkedin.com/in/prabhakar-v-736253244)
+- 📄 Know about my experiences [www.linkedin.com/in/prabhakar-v](www.linkedin.com/in/prabhakar-v)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhakarvenkat" alt="prabhakarvenkat" /></a> </p>
 </p align="left"> </img src="https://komarev.com/ghpvc/?username=prabhakarvenkat&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarvenkat" /> </p>
