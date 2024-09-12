@@ -1,4 +1,4 @@
-![logo](https://github.com/prabhakarvenkat/prabhakarvenkat/blob/main/Github%20Poster.png)
+![logo](https://github.com/prabhakarvenkat/prabhakarvenkat/blob/efc2a245db861bc1bd8835a487889ad825cb74f6/GitHub%20poster.png)
 <h1 align="center">Hi 👋, I'm PRABHAKAR V</h1>
 <h3 align="center">A passionate developer from India</h3>
 
