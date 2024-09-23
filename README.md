@@ -1,6 +1,6 @@
 ![logo](https://github.com/prabhakarvenkat/prabhakarvenkat/blob/efc2a245db861bc1bd8835a487889ad825cb74f6/GitHub%20poster.png)
 <h1 align="center">Hi 👋, I'm PRABHAKAR V</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB4NGgxNnhtcmh4c3V5MTQwNWo2c3N5eGJ1ZWpnZGh0d2hkbjBhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -52,9 +52,13 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+### My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarvenkat&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakarvenkat&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/prabhakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/prabhakar" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakarvenkat&show_icons=true&locale=en" alt="prabhakarvenkat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarvenkat&" alt="prabhakarvenkat" /></p>
