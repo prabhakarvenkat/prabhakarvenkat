@@ -1,11 +1,7 @@
 ![logo](https://github.com/prabhakarvenkat/prabhakarvenkat/blob/efc2a245db861bc1bd8835a487889ad825cb74f6/GitHub%20poster.png)
 <h1 align="center">Hi 👋, I'm PRABHAKAR V</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=prabhakarvenkat&icon=5&color=12" alt="Profile visit count">
-  </a>
-</div>
+
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB4NGgxNnhtcmh4c3V5MTQwNWo2c3N5eGJ1ZWpnZGh0d2hkbjBhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -20,10 +16,27 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhakarvenkat" alt="prabhakarvenkat" /></a> </p>
 </p align="left"> </img src="https://komarev.com/ghpvc/?username=prabhakarvenkat&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarvenkat" /> </p>
 
+<div id="connect">
+  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://i.postimg.cc/Q9295TY4/social.gif" height="35" width="auto">
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
+  </h2>
+  <a href="https://www.linkedin.com/in/prabhakar-v">
+    <img src="https://user-images.githubusercontent.com/63473496/212667680-1ccf7d0a-9f59-4be5-a2d0-b07effb04b6c.gif" height="60" width= auto>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=9790546103&text=Hi!%20Prabhakar!!">
+    <img src="https://user-images.githubusercontent.com/63473496/212668258-a33f94f5-0baf-4ab5-a2ac-83adafa8ecf0.gif" height="60" width="auto">
+  </a>
+    <a href="https://twitter.com/PrabhakarSamra1">
+    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
+  </a>
+  <a href="https://discord.com/users/prabhakar15/">
+    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
+  </a>
+</div>
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h3>
+<h3 align="left">Dev Platform: </h3>
 <p align="left">
-<a href="https://twitter.com/prabhakarsamra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabhakarsamra1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@prabhakarvenkat3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prabhakarvenkat3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prabhakar_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhakar_v" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prabhakar_v15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prabhakar_v15" height="30" width="40" /></a>
