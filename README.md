@@ -1,20 +1,22 @@
 ![logo](https://github.com/prabhakarvenkat/prabhakarvenkat/blob/efc2a245db861bc1bd8835a487889ad825cb74f6/GitHub%20poster.png)
 <h1 align="center">Hi 👋, I'm PRABHAKAR V</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-
+<img src="https://komarev.com/ghpvc/?username=prabhakarvenkat&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarvenkat" />
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnB4NGgxNnhtcmh4c3V5MTQwNWo2c3N5eGJ1ZWpnZGh0d2hkbjBhMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/prabhakarsamra1" target="blank"><img src="https://img.shields.io/twitter/follow/prabhakarsamra1?logo=twitter&style=for-the-badge" alt="prabhakarsamra1" /></a> </p>
 
-- 🌱 I’m currently pursuing **B.Tech Artificial Intelligence and Data Science**
+- 🌱 I’m currently a fresher with **B.Tech Artificial Intelligence and Data Science**
 
 - 📫 How to reach me **prabhakar15v@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/prabhakar-v](www.linkedin.com/in/prabhakar-v)
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhakarvenkat" alt="prabhakarvenkat" /></a> </p>
-</p align="left"> </img src="https://komarev.com/ghpvc/?username=prabhakarvenkat&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarvenkat" /> </p>
+
 
 <div id="connect">
   <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
