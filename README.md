@@ -78,6 +78,12 @@
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakarvenkat&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2 align="center"> 📊 Coding Stats (Powered by Wakatime)</h2>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/prabhakar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/prabhakar" /></a></p><br><br>
 
