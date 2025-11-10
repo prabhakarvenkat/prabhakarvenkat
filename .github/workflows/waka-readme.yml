@@ -31,3 +31,4 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: PRABHAKAR V
           AUTHOR_EMAIL: prabhakar15v@gmail.com
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
