@@ -72,11 +72,32 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+<h2 align="center"> 📈 Github Stats 💻</h2> 
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats-iota-nine.vercel.app/?user=prabhakarvenkat&theme=jolly&align=center)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+  <br/>
+    <a href="https://github.com/prabhakarvenkat/github-readme-stats"><img alt=“Prabhakarvenkat’s Github Stats" src="https://github-readme-stats-tv1x.vercel.app/api?username=prabhakarvenkat&show_icons=true&count_private=true&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/prabhakarvenkat/github-readme-stats"><img alt=“Prabhakarvenkat’s Top Languages" src="https://github-readme-stats-tv1x.vercel.app/api/top-langs/?username=prabhakarvenkat&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages, my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+</div>
+
+<!--
 ### My GitHub Stats 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarvenkat&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhakarvenkat&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h2 align="center"> 📊 Coding Stats (Powered by Wakatime)</h2>
 <!--START_SECTION:waka-->
