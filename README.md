@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabhakarsamra1" target="blank"><img src="https://img.shields.io/twitter/follow/prabhakarsamra1?logo=twitter&style=for-the-badge" alt="prabhakarsamra1" /></a> </p>
 
-- 🌱 I’m currently a fresher with **B.Tech Artificial Intelligence and Data Science**
+- 🌱 I hold a degree in **B.Tech Artificial Intelligence and Data Science**
 
 - 📫 How to reach me **prabhakar15v@gmail.com**
 
